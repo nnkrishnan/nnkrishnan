@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nnkrishnan
+- 👀 I’m a Mechanical Enginner.
+- Worked in IT as a webdeveloper mainly frontend in angular and some C#.
+- 🌱 I’m currently learning a bit of python, c# and matlab.
