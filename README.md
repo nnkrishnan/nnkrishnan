@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @nnkrishnan
-- 👀 I’m a Mechanical Enginner.
-- Worked in IT as a webdeveloper mainly frontend in angular and some C#.
+- 😁 I am new here.
+- 🛠 A Mechanical Enginner.
+- 👨‍💻 Worked in IT as a webdeveloper mainly frontend in angular and some .net C#.
 - 🌱 I’m currently learning a bit of python, c# and matlab.
+- 🔌 you can connect with me on LinkedIn. just click here 👉 https://www.linkedin.com/in/unnikrishnan20/
